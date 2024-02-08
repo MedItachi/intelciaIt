@@ -1,0 +1,3 @@
+https://climbtheladder.com/10-symfony-controller-best-practices/
+
+https://symfonycasts.com/screencast/symfony-fundamentals/dependency-injection#play
